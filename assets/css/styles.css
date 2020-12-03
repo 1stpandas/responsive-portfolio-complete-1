@@ -220,8 +220,8 @@ img {
   padding-top: 1.3rem;
   padding-left: 0.8rem;
   width: 160px;
-  height: 160p;
-  background-color: var(--first-color);
+  height: 160px;
+  background-color: black;
   border-radius: 50%;
   overflow: hidden;
   margin-bottom: var(--mb-2);
@@ -372,35 +372,19 @@ img {
 }
 
 .skills__html {
-  width: 80%;
+  width: 50%;
 }
 
 .skills__js {
-  width: 90%;
-}
-
-.skills__react {
-  width: 80%;
-}
-
-.skills__vue {
-  width: 80%;
+  width: 50%;
 }
 
 .skills__php {
-  width: 80%;
-}
-
-.skills__node {
-  width: 90%;
-}
-
-.skills__firebase {
-  width: 80%;
+  width: 50%;
 }
 
 .skills__java {
-  width: 80%;
+  width: 50%;
 }
 
 /* ===== EDUCATION =====*/
